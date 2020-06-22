@@ -1,1 +1,1 @@
-Data structure implemntation in c language.
+Traditional Data structure and standerd algorithm implemntation in c language.
