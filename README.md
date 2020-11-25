@@ -1,1 +1,1 @@
-Traditional Data structure and standerd algorithm implemntation in c language.
+### Conventional Data structure and Algorithms implementation in C language
